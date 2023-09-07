@@ -1,0 +1,30 @@
+#search {
+    border-radius: 30px;
+    padding: 3px 50px;
+    font-size: large;
+    border: 2px #119b9d solid;
+    color: #119b9d;
+    background-color: #f5f5f5;
+    font-weight: 550;
+}
+
+#more {
+    border-radius: 100%;
+    color: white;
+    background-color: #00d1b2;
+    border: 0px;
+    font-size: large;
+    
+}
+
+#createAccount {
+    background-color: #2b78e4;
+    color: white;
+    padding: 3px 30px;
+    font-size: large;
+    box-shadow: 3px 3px 0px black;
+}
+
+div {
+    margin: 10px;
+}
